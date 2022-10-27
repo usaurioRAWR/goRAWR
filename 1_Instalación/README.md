@@ -17,5 +17,9 @@
 ### 1.1.6. Proceder con la instalacion completa.
     Recuerden seleccionar instalacion en PATCH, si se le pregunta.
     
-    ### 1.1.6.1. Windows.
-    ### 1.1.6.2. macOS.
+#### 1.1.6.1. Windows.
+https://user-images.githubusercontent.com/56109439/198364722-56bb57d0-4bee-407a-acd9-a11b7a0c3743.mov
+
+#### 1.1.6.2. macOS.
+https://user-images.githubusercontent.com/56109439/198364738-1a0bc6ec-1536-4177-a598-5bd7796d31d6.mov
+
