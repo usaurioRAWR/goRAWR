@@ -1,4 +1,4 @@
-# 1 Instalación.
+# 1 Instalacion.
 
 ### 1.1. Abrir nuestro navegador favorito.
 ### 1.2. Buscar "Golang".
