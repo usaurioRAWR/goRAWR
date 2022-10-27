@@ -1,4 +1,4 @@
-# 1 Instalación y Hola mundo
+# 1 Instalación.
 
 ## 1.1. Instalación.
 
