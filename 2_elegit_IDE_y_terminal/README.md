@@ -28,16 +28,15 @@ Entre todos los [IDE's](https://github.com/golang/go/wiki/IDEsAndTextEditorPlugi
 ## 2.2. Terminal.
 
 ### 2.2.1. Terminales disponibles en Windows.
-- Simbolo del sistema.
-
+- Simbolo del sistema
 ![Simbolo del sistema](Imagenes/Simbolo%20del%20sistema.png)
 
 - PowerShell
-
 ![PowerShell](Imagenes/PowerShell.png)
+
 ### 2.2.2. Terminales disponibles en macOS.
-- Terminal.
+- Terminal
 ![Terminal](Imagenes/Terminal.png)
 
-- iTerm.
+- iTerm
 ![iTerm](Imagenes/iTerm.png)
