@@ -16,3 +16,7 @@
 
 ### 1.1.6. Proceder con la instalacion completa.
     Recuerden seleccionar instalacion en PATCH, si se le pregunta.
+
+
+https://user-images.githubusercontent.com/56109439/198355975-fba65e36-70ee-4e52-b5f1-4308affe785d.mov
+
