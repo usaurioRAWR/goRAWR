@@ -3,9 +3,10 @@
 En este apartado, obtendrá una breve introducción a la programación de Go. Obteniendo los siguientes conocimientos;
 
 * Uso basico de la Terminal.
-* Escribir un código simple de "Hola, mundo".
-* Utilizar el comando para ejecutar el código.go
-* Use la herramienta de detección de paquetes Go para encontrar paquetes que pueda usar por su cuenta código.
+* Escribir un código simple en go; "Hola, mundo".
+* USo de go en Terminal.
+    * Utilizar el comando para ejecutar el código.go
+    * Use la herramienta de detección de paquetes Go para encontrar paquetes que pueda usar por su cuenta código.
 * Funciones de llamada de un módulo externo.
 
 ## 1.1. Uso basico de la Terminal.
@@ -32,7 +33,11 @@ En este apartado, obtendrá una breve introducción a la programación de Go. Ob
 ![mkdir_pSH](imagenes/mkdir_pSH.png)
 
 
+
 ## 1.2. Escribir codigo.
 
-> Le recomendamos crear un direcctorio, para organizar sus codigos y la documentacion que le podamos proporcionar.
+> Antes de nada vamos a crear un repositorio, al que llamaremos "hello".
+![mkdir_hello](imagenes/mkdir_hello.png)
 
+> Una vez dentro de nuestro directorio, crearemos un docuemnto al que llamaremos "hello.go".
+![hello_go](imagenes/hello_go.png)
