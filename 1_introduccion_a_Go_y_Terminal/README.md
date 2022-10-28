@@ -10,10 +10,26 @@ En este apartado, obtendrá una breve introducción a la programación de Go. Ob
 
 ## 1.1. Uso basico de la Terminal.
 
-- pwd
+- pwd (Bash y PowerShell)
     > Muestra la direccion absoluta del directorio donde nos encontramos.
 ![pwd_bash](imagenes/pwd_bash.png)
 ![pwd_pSH](imagenes/pwd_pSH.png)
+
+- ls (Bash y PowerShell)
+    > Lista todos los directorios que se encuentra en el direccorio actual.
+![ls_bash](imagenes/ls_bash.png)
+![ls_pSH](imagenes/ls_pSH.png)
+
+- dir (PowerShell y CMD)
+    > Lista todos los directorios que se encuentra en el directorio actual.
+![dir_CMD](imagenes/dir_CMD.png)
+![dir_pSH](imagenes/dir_pSH.png)
+
+- mkdir (Bash, CMD y PowerShell)
+    > Crea directorios.
+![mkdir_bash](imagenes/mkdir_bash.png)
+![mkdir_CMD](imagenes/mkdir_CMD.png)
+![mkdir_pSH](imagenes/mkdir_pSH.png)
 
 
 ## 1.2. Escribir codigo.
