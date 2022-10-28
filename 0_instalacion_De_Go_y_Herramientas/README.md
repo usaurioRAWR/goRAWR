@@ -5,7 +5,7 @@
 - Abrir nuestro navegador favorito.
 - Buscar "Golang".
 
-    ![0.1.2. Buscar "Golang"](imagenes/1.1.2.png)
+![0.1.2. Buscar "Golang"](imagenes/1.1.2.png)
 
 - Acceder a la pagina de "https://go.dev/"
 
