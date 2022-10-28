@@ -4,12 +4,16 @@
 
 - Abrir nuestro navegador favorito.
 - Buscar "Golang".
-![0.1.2. Buscar "Golang"](imagenes/1.1.2.png)
+
+    ![0.1.2. Buscar "Golang"](imagenes/1.1.2.png)
+
 - Acceder a la pagina de "https://go.dev/"
-![0.1.3. Acceder a la pagina de "https://go.dev/"](imagenes/1.1.3.png)
+
+    ![0.1.3. Acceder a la pagina de "https://go.dev/"](imagenes/1.1.3.png)
 
 - Acceder a descargas.
-![0.1.4. Acceder a descargas.](imagenes/1.1.4.png)
+
+    ![0.1.4. Acceder a descargas.](imagenes/1.1.4.png)
 
 - Descargar la version para nuestro Sistema Operativo.
 ![](imagenes/1.1.5.png)
@@ -64,7 +68,8 @@ Entre todos los [IDE's](https://github.com/golang/go/wiki/IDEsAndTextEditorPlugi
 ### 0.2.2.2. Terminales disponibles en macOS.
 - Terminal
 
-![Terminal](imagenes/Terminal.png)
+    ![Terminal](imagenes/Terminal.png)
+    
 - iTerm
 
-![iTerm](imagenes/iTerm.png)
+    ![iTerm](imagenes/iTerm.png)
