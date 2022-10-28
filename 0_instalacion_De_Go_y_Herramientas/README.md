@@ -4,15 +4,15 @@
 
 - Abrir nuestro navegador favorito.
 - Buscar "Golang".
-![0.1.2. Buscar "Golang"](Imagenes/1.1.2.png)
+![0.1.2. Buscar "Golang"](imagenes/1.1.2.png)
 - Acceder a la pagina de "https://go.dev/"
-![0.1.3. Acceder a la pagina de "https://go.dev/"](Imagenes/1.1.3.png)
+![0.1.3. Acceder a la pagina de "https://go.dev/"](imagenes/1.1.3.png)
 
 - Acceder a descargas.
-![0.1.4. Acceder a descargas.](Imagenes/1.1.4.png)
+![0.1.4. Acceder a descargas.](imagenes/1.1.4.png)
 
 - Descargar la version para nuestro Sistema Operativo.
-![](Imagenes/1.1.5.png)
+![](imagenes/1.1.5.png)
 
 > Proceder con la instalacion completa.
 Recuerden reiniciar las terminales para que go se aplique en el PATCH correctamente.
@@ -34,7 +34,7 @@ Entre todos los [IDE's](https://github.com/golang/go/wiki/IDEsAndTextEditorPlugi
 ### Plugins
 - [Go para Visual Studio Code (Go Team Google)](https://marketplace.visualstudio.com/items?itemName=golang.go)
 
-![VSCode_Hello_Work](Imagenes/VS_Code.png)
+![VSCode_Hello_Work](imagenes/VS_Code.png)
 
 ## [Sublime Text](https://www.sublimetext.com/download)
 
@@ -48,23 +48,23 @@ Entre todos los [IDE's](https://github.com/golang/go/wiki/IDEsAndTextEditorPlugi
 - [Golang Build (GitHub)](https://github.com/golang/sublime-build)
     - [Golang Build (packagecontrol)](https://packagecontrol.io/packages/Golang%20Build)
 
-![Sublime_Text_Hello_Work](Imagenes/Sublime_Text_Hello_Work.png)
+![Sublime_Text_Hello_Work](imagenes/Sublime_Text_Hello_Work.png)
 
 ## 0.2.2. Terminal.
 
 ### 0.2.2.1. Terminales disponibles en Windows.
 - Simbolo del sistema
 
-![Simbolo_del_sistema](Imagenes/Simbolo_del_sistema.png)
+![Simbolo_del_sistema](imagenes/Simbolo_del_sistema.png)
 
 - PowerShell
 
-![PowerShell](Imagenes/PowerShell.png)
+![PowerShell](imagenes/PowerShell.png)
 
 ### 0.2.2.2. Terminales disponibles en macOS.
 - Terminal
 
-![Terminal](Imagenes/Terminal.png)
+![Terminal](imagenes/Terminal.png)
 - iTerm
 
-![iTerm](Imagenes/iTerm.png)
+![iTerm](imagenes/iTerm.png)
