@@ -34,7 +34,7 @@ Entre todos los [IDE's](https://github.com/golang/go/wiki/IDEsAndTextEditorPlugi
 ### Plugins
 - [Go para Visual Studio Code (Go Team Google)](https://marketplace.visualstudio.com/items?itemName=golang.go)
 
-![VSCode Hello Work](Imagenes/VS%20Code.png)
+![VSCode_Hello_Work](Imagenes/VS_Code.png)
 
 ## [Sublime Text](https://www.sublimetext.com/download)
 
@@ -48,14 +48,14 @@ Entre todos los [IDE's](https://github.com/golang/go/wiki/IDEsAndTextEditorPlugi
 - [Golang Build (GitHub)](https://github.com/golang/sublime-build)
     - [Golang Build (packagecontrol)](https://packagecontrol.io/packages/Golang%20Build)
 
-![Sublime Text Hello Work](Imagenes/Sublime%20Text%20Hello%20Work.png)
+![Sublime_Text_Hello_Work](Imagenes/Sublime_Text_Hello_Work.png)
 
 ## 0.2.2. Terminal.
 
 ### 0.2.2.1. Terminales disponibles en Windows.
 - Simbolo del sistema
 
-![Simbolo del sistema](Imagenes/Simbolo%20del%20sistema.png)
+![Simbolo_del_sistema](Imagenes/Simbolo_del_sistema.png)
 
 - PowerShell
 
