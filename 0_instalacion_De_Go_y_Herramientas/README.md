@@ -57,7 +57,7 @@ Entre todos los [IDE's](https://github.com/golang/go/wiki/IDEsAndTextEditorPlugi
 ## 0.2.2. Terminal.
 
 ### 0.2.2.1. Terminales disponibles en Windows.
-- Simbolo del sistema
+- Simbolo del sistema o CMD.
 
 ![Simbolo_del_sistema](imagenes/Simbolo_del_sistema.png)
 
