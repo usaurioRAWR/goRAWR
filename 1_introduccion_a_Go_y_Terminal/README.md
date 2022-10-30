@@ -59,7 +59,8 @@ func main() {
 - go run ejemplo.go
 > Permite ejecutar el codigo Go sin ser compilado.
 >>Para probar el comando, ejecutaremos nuestro "hello.go";
->>>`go run hello.go`
+>>
+>>`go run hello.go`
 ![go_run_hello_go](imagenes/go_run_hello_go.png)
 
 - go help
@@ -69,5 +70,6 @@ func main() {
 - go build ejemplo.go
 > Permite compilar nuestro codigo. 
 >>Para probar el comando, compilaremos nuestro "hello.go".
->>>`go build hello.go`
+>>
+>>`go build hello.go`
 ![go_build_hello_go](imagenes/go_build_hello_go.png)
