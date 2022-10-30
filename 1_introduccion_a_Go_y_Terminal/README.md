@@ -53,3 +53,17 @@ func main() {
     - Declaracion de un paquete "main" (un paquete es una forma de agrupar funciones y se compone de todos los archivos que se encuentran en el mismo directorio).
     - Importacion del paquete "ftm", el cual contiene funciones para dar formato al texto (incluida la impresion en consola).
     - Implementacion de una funcion para imprimir un mensaje en consola.
+
+## 1.3. Uso basico de Go en la Terminal.
+
+- go run ejemplo.go
+> Permite ejecutar el codigo Go sin ser compilado.
+Para probar el comando ejecutaremos nuestro "hello.go";
+~~~
+go run hello.go
+~~~
+![go_run_hello_go](imagenes/go_run_hello_go.png)
+
+- go help
+> Proporciona una lista de los comandos de GO.
+![go_help](imagenes/go_help.png)
