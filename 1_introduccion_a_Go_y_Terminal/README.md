@@ -33,11 +33,23 @@ En este apartado, obtendrá una breve introducción a la programación de Go. Ob
 ![mkdir_pSH](imagenes/mkdir_pSH.png)
 
 
-
 ## 1.2. Escribir codigo.
 
 > Antes de nada vamos a crear un repositorio, al que llamaremos "hello".
 ![mkdir_hello](imagenes/mkdir_hello.png)
 
-> Una vez dentro de nuestro directorio, crearemos un docuemnto al que llamaremos "hello.go".
+> Una vez dentro de nuestro directorio, crearemos un documento al que llamaremos "hello.go". Y en el cual pegaremos el siguiente codigo.
+~~~
+package main
+
+import "fmt"
+
+func main() {
+    fmt.Println("Hello, World!")
+}
+~~~
 ![hello_go](imagenes/hello_go.png)
+* ¿Que hay en nuestro codigo?
+    - Declaracion de un paquete "main" (un paquete es una forma de agrupar funciones y se compone de todos los archivos que se encuentran en el mismo directorio).
+    - Importacion del paquete "ftm", el cual contiene funciones para dar formato al texto (incluida la impresion en consola).
+    - Implementacion de una funcion para imprimir un mensaje en consola.
