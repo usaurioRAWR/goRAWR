@@ -73,3 +73,4 @@ func main() {
 >>
 >>`go build hello.go`
 ![go_build_hello_go](imagenes/go_build_hello_go.png)
+
