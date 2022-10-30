@@ -69,10 +69,10 @@ go run hello.go
 ![go_help](imagenes/go_help.png)
 
 - go build ejemplo.go
-> Permite compilar nuestro codigo
-Para probar el comando, compilaremos nuestro "hello.go"
+> Permite compilar nuestro codigo.
+
+> Para probar el comando, compilaremos nuestro "hello.go".
 ~~~
 go build hello.go
 ~~~
-
-![go_build_hello_go](imagenes/go_build_hello_go.png)
+>![go_build_hello_go](imagenes/go_build_hello_go.png)
