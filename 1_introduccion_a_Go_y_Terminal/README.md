@@ -74,3 +74,12 @@ func main() {
 >>`go build hello.go`
 ![go_build_hello_go](imagenes/go_build_hello_go.png)
 
+- ./ejemplo
+> Permite ejecutar tu codigo GO compilado en una terminal Bash.
+>>Para probar el comando, ejecutemos "./hello"
+![hello_word_bash](imagenes/hello_word_bash.png)
+
+- ejemplo.exe
+> Permite ejecuter tu codigo Go compilado en una terminal PowerShell y CMD.
+![hello_word_exe_pSH](imagenes/hello_word_exe_pSH.png)
+![hello_word_exe_CMD](imagenes/hello_word_exe_CMD.png)
